@@ -1,0 +1,60 @@
+body{
+    background-color: aquamarine;
+}
+/* .wrap-div{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.left-side{
+    background-color: bisque;
+    border: 1px solid black;
+    margin-right: 50px;
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+}
+.right-side{
+    background-color: burlywood;
+    border: 1px solid black;
+    width: 600px;
+}
+.wrap-li{
+    display: flex;
+    
+}
+.wrap-box{
+    display: flex;
+}
+p{
+    margin: 0;
+    padding: 0;
+    align-self: center;
+}
+.title{
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", sans-serif;
+} */
+
+.picture{
+    width: 250px;
+    height: 200px;
+}
+.li{
+    list-style-type: none;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+}
+.AllSumSection{
+    position: fixed;
+    width: 100%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: end;
+}
