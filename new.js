@@ -23,5 +23,4 @@ let data = [
         name: "Onix",
         price: 9000
     }
-
 ]
