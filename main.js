@@ -58,7 +58,6 @@ function getData(param) {
     function modelData(params) {
         rightList.innerHTML = ""
 
-
         params.map(elem => {
             let item = document.createElement("li")
             let picture = document.createElement("img")
