@@ -1,7 +1,6 @@
 const list = document.querySelector(".list")
 const rightList = document.querySelector(".rightList")
 const AllSum = document.querySelector(".AllSum")
-// let btn = document.querySelector(".buyBtn")
 
 function getData(param) {
 
