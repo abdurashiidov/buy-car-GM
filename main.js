@@ -64,7 +64,6 @@ function getData(param) {
             let price = document.createElement("p")
             let title = document.createElement("h2")
             let deleteBtn = document.createElement("button")
-
             let plus = document.createElement("button")
             let minus = document.createElement("button")
     
