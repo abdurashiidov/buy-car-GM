@@ -63,8 +63,6 @@ function getData(param) {
              
  
             // newArr.push(el)
-    
-    
             let item = document.createElement("li")
             let picture = document.createElement("img")
             let price = document.createElement("p")
