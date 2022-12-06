@@ -82,7 +82,6 @@ function getData(param) {
             plus.textContent = "+"
             minus.textContent = "-"
 
-
             // ! plus btn
             plus.addEventListener("click", () =>{
 
@@ -98,7 +97,6 @@ function getData(param) {
                 } else{
                     minus.disabled = false
                 }
-
             })
 
             // ! minus btn
@@ -117,8 +115,6 @@ function getData(param) {
                 }
 
             })
-            
-
 
             picture.setAttribute("class", "picture")
             item.setAttribute("class", "li")
@@ -136,7 +132,6 @@ function getData(param) {
                 AllSum.textContent = value
 
             })
-
             
             item.appendChild(picture)
             item.appendChild(title)
@@ -149,10 +144,5 @@ function getData(param) {
             rightList.appendChild(item)
         })
     }
-
-
-
-    
-    
 }
 getData(data)
