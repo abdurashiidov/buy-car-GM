@@ -60,7 +60,6 @@ function getData(param) {
 
 
         params.map(elem => {
-             
             let item = document.createElement("li")
             let picture = document.createElement("img")
             let price = document.createElement("p")
