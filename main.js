@@ -10,9 +10,6 @@ function getData(param) {
     let newArr = []
     param.map(el => {
         
-        
-
-        // newArr.push(el)
         let item = document.createElement("li")
         let picture = document.createElement("img")
         let price = document.createElement("p")
