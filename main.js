@@ -49,10 +49,8 @@ function getData(param) {
             }
             
             console.log(newArr);
-
             modelData(newArr)
         })
-        
     })
 
     function modelData(params) {
